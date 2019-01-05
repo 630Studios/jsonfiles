@@ -1,27 +1,23 @@
 {
 "success": true,
 "users": [
-{
-  "id": 1,
+{ "id": 1,
   "firstname": "Jason",
   "lastname": "Penick",
   "email": "fakeemail@fake.com",
-  "primaryphone": "18008888888",
-},
+  "primaryphone": "18008888888" },
 {
   "id": 2,
   "firstname": "Jane",
   "lastname": "Doe",
   "email": "JaneDoe@fake.com",
-  "primaryphone": "18008888887",
+  "primaryphone": "18008888887"
 },
-{
-  "id": 3,
+{ "id": 3,
   "firstname": "John",
   "lastname": "Doe",
   "email": "JohnDoe@fake.com",
-  "primaryphone": "18008888886",
-}
+  "primaryphone": "18008888886" }
 ]
 
 }
