@@ -5,6 +5,12 @@
       "title": "hello"
     }
   ],
+  "users": [
+    {
+      "id": 1,
+      "firstname": "jason"
+    }
+    ],
   "profile": {
     "name": "typicode"
   }
